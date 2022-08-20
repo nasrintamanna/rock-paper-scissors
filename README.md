@@ -1,12 +1,10 @@
-## Rock Paper Scissors
 
-# Instructions
 
-Make a rock, paper, scissors game. 
+Welcome to a rock, paper, scissors game.  
 
-Inside the `main.py` file, you'll find the ASCII art for the hand signals already saved to a corresponding variable: `rock`, `paper`, and `scissors`. This will make it easy to print them out to the console. 
+scissors cuts paper, paper covers rock, and rocks crushes scissors
 
-Start the game by asking the player:
+Start the game by choosing 0 or 1 or 2 :
 
 *"What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors."*
 
