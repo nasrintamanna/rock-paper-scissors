@@ -2,7 +2,7 @@
 
 Welcome to a rock, paper, scissors game.  
 
-scissors cuts paper, paper covers rock, and rocks crushes scissors
+scissors cuts paper, paper covers rock, and rocks crushes scissors.
 
 Start the game by choosing 0 or 1 or 2 :
 
